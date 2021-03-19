@@ -14,6 +14,7 @@ Crie um ambiente virtual: `python3 -m venv .env`
 Ative o ambiente virtual:  
 - usando o **CMD**: `.env/bin/activate.bat`  
 - usando o **PowerShell**: `.env/bin/activate.ps1`  
+
 Baixe os requeriments para o bot funcionar: `pip install -r requeriments`
 
 #### Pastas e arquivos
