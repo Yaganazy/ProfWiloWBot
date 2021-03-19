@@ -7,7 +7,7 @@ Bot para ajudar um grupo de Pokémon GO no Telegram
 - [ ] Criar lista de raids
 - [ ] Criar lista com codigo de treinador dos membros do grupo
 
-## How to use
+## Como usar
 
 Baixe os arquivos, extraia, entre na pasta criada.
 Crie um ambiente virtual: `python3 -m venv .env`
