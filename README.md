@@ -31,7 +31,7 @@ ProfWilowBot
 └── requeriments
 ```
 
-conteúdo do arquivo **config.toml**
+Para criar a pasta **config** digite: `mkdir config` e dentro da pasta config crie um arquivo chamado **config.toml** e dentro dele coloque:  
 `TOKEN='your TOKEN here'`
 
-Dentro do arquivo **config.toml** coloque seu **TOKEN**, caso nao tenha um **TOKEN** fale com o [BotFather](https://t.me/BotFather) para criar um.
+Dentro do arquivo **config.toml** coloque seu **TOKEN** onde esta escrito `your TOKEN here` não esqueça das aspas, caso nao tenha um **TOKEN** fale com o [BotFather](https://t.me/BotFather) para criar um.
